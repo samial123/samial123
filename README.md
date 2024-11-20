@@ -2,10 +2,10 @@
 
 ## 👋 About Me
 
-🎓 **Hi, I’m @samial123 (Sami Olivier Al-Najjar)**  
-I’m passionate about exploring the world of **big tech** and currently learning **Python** with plans to start **C++** soon. While I’m not yet collaborating on projects, I’m building a solid foundation in programming and developing skills for future endeavors.  
+🎓 **Hi, I’m Sami Al-Najjar**  
+I’m passionate about exploring the world of big tech and currently learning **Python** with plans to start **C++** soon. While I’m not yet collaborating on projects, I’m building a solid foundation in programming and developing skills for future endeavors.  
 
-🎻 Outside of coding, I’ve been playing the **violin** for many years. It’s one of my favorite creative outlets. Feel free to reach out via my school email at **[sa454123@ohio.edu](mailto:sa454123@ohio.edu)**.  
+🎻 Outside of coding, I’ve been playing the violin for many years. It’s one of my favorite creative outlets. As well, I do a lot of weightlifitng and outdoor activities. Feel free to reach out via my school email at **[sa454123@ohio.edu](mailto:sa454123@ohio.edu)**.  
 
 🌍 I’m an undergraduate student at **Ohio University**, focused on honing my skills and exploring the intersection of technology and creativity.  
 
